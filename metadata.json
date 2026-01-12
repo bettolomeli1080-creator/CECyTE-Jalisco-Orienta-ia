@@ -1,0 +1,7 @@
+{
+  "name": "CECYTE Jalisco Orienta",
+  "description": "Una aplicación inteligente diseñada para ayudar a los estudiantes a encontrar su carrera técnica ideal y el plantel del CECYTE Jalisco más cercano, basándose en sus gustos, experiencias y ubicación.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
